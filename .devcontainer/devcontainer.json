@@ -1,5 +1,6 @@
 {
   "name": "Puppet Development Kit - Dockerfile",
+  "customContainers":true,
   "dockerFile": "Dockerfile",
   "settings": {
   },
