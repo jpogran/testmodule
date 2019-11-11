@@ -1,0 +1,10 @@
+{
+  "name": "Puppet Development Kit - Dockerfile",
+  "dockerFile": "Dockerfile",
+  "settings": {
+  },
+  "extensions": [
+    "jpogran.puppet-vscode",
+    "rebornix.Ruby"
+  ]
+}
